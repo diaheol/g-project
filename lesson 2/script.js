@@ -28,6 +28,10 @@
  const userName = prompt("Please enter your name:");
  console.log(userName);
 
+ const number = prompt("Please enter number");
+ console. log(number);
+ 
+
 // const number = prompt("Please enter number");
 // console.log(number);
 
