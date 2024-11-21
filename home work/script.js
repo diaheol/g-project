@@ -7,10 +7,10 @@
 
 //***2***
 //Який буде результат виконання скрипта?
-// let name = "Olga";
-// console.log(`привіт ${1}`); //
-// console.log(`привіт ${"name"}`); //
-// console.log(`привіт ${name}`); // ?
+let name = "Olga";
+console.log(`привіт ${1}`); 
+console.log(`привіт ${"name"}`);
+console.log(`привіт ${name}`); 
 
 //***3***
 //Видобути число зі змінних
